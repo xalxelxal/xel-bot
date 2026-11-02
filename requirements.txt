@@ -1,4 +1,1 @@
-Flask
-requests
-urllib3
-python-telegram-bot
+python-telegram-bot==22.5
